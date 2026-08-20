@@ -1,6 +1,6 @@
 # House-Price-Prediction-Using-Multiple-Linear-Regression
 
-Deployment Link: https://house-price-prediction-using-machine-mjoi.onrender.com
+Deployment Link: https://sagar-datti-house-price-prediction-2.onrender.com
 
 # 🏠 House Price Prediction using Multiple Linear Regression
 
